@@ -16,3 +16,5 @@ Configurando o Phishing no Kali Linux
     Método de ataque: Site Cloner
     Obtendo o endereço da máquina: ifconfig
     URL para clone: http://www.faceboo
+
+![image](https://github.com/FelipAndrad/desafipphishing/assets/106696199/ccddd224-0acc-4d3c-b096-36fc8439cfcf)
